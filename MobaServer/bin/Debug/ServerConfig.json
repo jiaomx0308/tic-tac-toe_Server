@@ -1,0 +1,13 @@
+{
+    "DatabaseConnection": "server=127.0.0.1;uid=root;database=tank;charset=utf8",
+    "DatabaseLogConnection": "server=127.0.0.1;uid=root;database=tank;charset=utf8",
+    "HttpServerListenPort": "12030",
+    "Port": "12031",
+	"UDPPort" : "12032",
+	"UDPClientPort" : 12033,
+	"IsMaster": true,
+	"SlaveList" : [
+		["127.0.0.1:12031", "127.0.0.1:12030"],
+
+	],
+}

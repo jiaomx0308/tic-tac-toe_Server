@@ -1,0 +1,10 @@
+F:\jiaomx_\unity\ThreeClient\liyonghelpme-ThreeServer-master\ThreeServer\ThreeServer\bin\Debug\ThreeServer.exe
+F:\jiaomx_\unity\ThreeClient\liyonghelpme-ThreeServer-master\ThreeServer\ThreeServer\bin\Debug\ThreeServer.pdb
+F:\jiaomx_\unity\ThreeClient\liyonghelpme-ThreeServer-master\ThreeServer\ThreeServer\bin\Debug\Google.ProtocolBuffersLite.dll
+F:\jiaomx_\unity\ThreeClient\liyonghelpme-ThreeServer-master\ThreeServer\ThreeServer\bin\Debug\log4net.dll
+F:\jiaomx_\unity\ThreeClient\liyonghelpme-ThreeServer-master\ThreeServer\ThreeServer\bin\Debug\protoDll.dll
+F:\jiaomx_\unity\ThreeClient\liyonghelpme-ThreeServer-master\ThreeServer\ThreeServer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\jiaomx_\unity\ThreeClient\liyonghelpme-ThreeServer-master\ThreeServer\ThreeServer\obj\x86\Debug\ThreeServer.csproj.CoreCompileInputs.cache
+F:\jiaomx_\unity\ThreeClient\liyonghelpme-ThreeServer-master\ThreeServer\ThreeServer\obj\x86\Debug\ThreeServer.csproj.CopyComplete
+F:\jiaomx_\unity\ThreeClient\liyonghelpme-ThreeServer-master\ThreeServer\ThreeServer\obj\x86\Debug\ThreeServer.exe
+F:\jiaomx_\unity\ThreeClient\liyonghelpme-ThreeServer-master\ThreeServer\ThreeServer\obj\x86\Debug\ThreeServer.pdb
